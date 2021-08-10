@@ -1,4 +1,4 @@
-Hello! I'm a programmer and educaator, looking to upload some of the stuff I've made over the years to github soon. A lot of stuff is code I wrote for working with students, so I have to pull out PII before I share it with the world. 
+Hello! I'm a programmer and educator, looking to upload some of the stuff I've made over the years to github soon. I've written a decent abmount of code for my lessons that I'd love to clean up and share.  
 
 My current interests are reverse engineering and infosec, but I've had a long interest in functional programming, and you'll see all sorts of stuff here soon enough.
 
